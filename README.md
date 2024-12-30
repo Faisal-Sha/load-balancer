@@ -1,5 +1,5 @@
 # load-balancer
-this is load-balancer in python.
+this is load-balancer in Go.
 
 
 ### Build You Own Load Balancer
